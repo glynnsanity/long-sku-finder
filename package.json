@@ -1,0 +1,16 @@
+{
+  "name": "long-sku-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Patrick Puente",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-bigcommerce": "^4.1.0"
+  }
+}
