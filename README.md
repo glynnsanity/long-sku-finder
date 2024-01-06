@@ -1,0 +1,1 @@
+A simple repository for finding SKU's that are over a certain length. Specifically for a scenario where Facebook Marketplace wasn't able to import products. This script was built for the purpose of finding the long SKU's in a large catalog so that they could be shortened.
